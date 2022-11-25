@@ -1,0 +1,10 @@
+1. theorem: a group of 5 kids have a total of 12 chocolate bars. then at least on eof the kids has at least three chocolate bars. a proof by contradiction of the theorem starts by assuming which fact? all the kids have three or fewer chocolate bars. all the kids have less than three chocolate bars. there is a kid with three or fewer chocolate bars. there is a kid with r fewer than three chocolate bars。
+
+2. theorem: for any real number x, x+x-5 >= 5 in a proof by cease of the theorem, there are two cases. one of the cases is that x > 5. what is the other case?
+
+5. f:0,1-0,1 f(x) is obtained from x by removing the first bit. for example, f(1000)=000. select the correct description of the funtion f. one-to-one and onto one-to-one but not onto 
+
+6. a={a,b,c,d} and X = {1,2,3,4}. each choice (a,b,c,d) defines a function whose domain is A and whose target is X. Select the funtion that has a well-defined inverse. 1. f={91,3),(b,4),(c,3),(d,4)}
+
+9. which number is congruent to 5639 mod 13? a. 5721 b.5627 5653 5652
+
